@@ -1,1 +1,2 @@
-# docker-php-mysql-redis
+# ci-cd-demo
+Demo CI + CD
